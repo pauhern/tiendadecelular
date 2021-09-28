@@ -1,6 +1,6 @@
-﻿namespace Win.tiendadecelulares
+﻿namespace Win.TiendaCelulares
 {
-    partial class FormProductos
+    partial class FormReportedeclientes
     {
         /// <summary>
         /// Required designer variable.
@@ -28,17 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // FormProductos
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "FormProductos";
-            this.Text = "Productos";
-            this.ResumeLayout(false);
-
+            this.Text = "FormReportedeclientes";
         }
 
         #endregion

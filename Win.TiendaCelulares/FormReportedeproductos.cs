@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Win.tiendadecelulares
+namespace Win.TiendaCelulares
 {
-    public partial class FormClientes : Form
+    public partial class FormReportedeproductos : Form
     {
-        public FormClientes()
+        public FormReportedeproductos()
         {
             InitializeComponent();
         }

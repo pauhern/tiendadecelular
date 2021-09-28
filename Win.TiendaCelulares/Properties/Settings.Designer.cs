@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Win.tiendadecelulares.Properties
+namespace Win.TiendaCelulares.Properties
 {
 
 
