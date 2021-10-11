@@ -127,6 +127,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="Properties\DataSources\BL.Tienda.ProductosBL+Producto.datasource" />
+    <None Include="Properties\DataSources\BL.Tienda.ProductosBL.datasource" />
+    <None Include="Properties\DataSources\BL.Tienda.SeguridadBL.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -145,6 +148,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BL.Tienda\BL.Tienda.csproj">
+      <Project>{d6fbc485-fd18-47bc-a534-d319a3bc6f2d}</Project>
+      <Name>BL.Tienda</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
