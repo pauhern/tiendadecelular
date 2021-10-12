@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL.Tienda
+namespace BL.Seguridad
 {
     public class SeguridadBL
     {
         public bool Autorizar(string usuario, string contrasena)
-        {
+        { 
             if (usuario == "admin" && contrasena == "123")
             {
                 return true;
@@ -18,20 +18,10 @@ namespace BL.Tienda
             {
                 if (usuario == "user" && contrasena == "456")
                 {
-
                     return true;
-
                 }
-
             }
-
-            return false;
-
+            return false; 
         }
     }
 }
-
-
-
-
-

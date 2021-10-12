@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D6FBC485-FD18-47BC-A534-D319A3BC6F2D}</ProjectGuid>
+    <ProjectGuid>{7CA79E0E-F7B3-4B97-AAAB-D8436A95E106}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BL.Tienda</RootNamespace>
-    <AssemblyName>BL.Tienda</AssemblyName>
+    <RootNamespace>BL.Seguridad</RootNamespace>
+    <AssemblyName>BL.Seguridad</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
