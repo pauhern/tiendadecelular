@@ -1,0 +1,5 @@
+C:\Users\Christian Flores\Desktop\Clases 3er Semestre 2021\1600-LENG. DE PROGRAMAC III\ProyectoU1\TiendaCelulares\BL.Seguridad\bin\Debug\BL.Seguridad.dll
+C:\Users\Christian Flores\Desktop\Clases 3er Semestre 2021\1600-LENG. DE PROGRAMAC III\ProyectoU1\TiendaCelulares\BL.Seguridad\bin\Debug\BL.Seguridad.pdb
+C:\Users\Christian Flores\Desktop\Clases 3er Semestre 2021\1600-LENG. DE PROGRAMAC III\ProyectoU1\TiendaCelulares\BL.Seguridad\obj\Debug\BL.Seguridad.csprojResolveAssemblyReference.cache
+C:\Users\Christian Flores\Desktop\Clases 3er Semestre 2021\1600-LENG. DE PROGRAMAC III\ProyectoU1\TiendaCelulares\BL.Seguridad\obj\Debug\BL.Seguridad.dll
+C:\Users\Christian Flores\Desktop\Clases 3er Semestre 2021\1600-LENG. DE PROGRAMAC III\ProyectoU1\TiendaCelulares\BL.Seguridad\obj\Debug\BL.Seguridad.pdb
